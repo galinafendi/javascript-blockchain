@@ -1,5 +1,5 @@
 # javascript-blockchain
-Creating local blockchain using Javascript
+Creating local blockchain and new cryptocurrency called Javacoin using Javascript
 
 Credit: https://www.udemy.com/course/build-a-blockchain-in-javascript
 
